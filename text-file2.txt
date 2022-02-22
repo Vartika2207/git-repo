@@ -1,3 +1,8 @@
 Hello Lumiq.ai
 Hello Lumiq 2013
+<<<<<<< HEAD
 Limuq is data-driven company
+=======
+Lumiq is a data-driven company
+Lumiq is partnered with AWS
+>>>>>>> new-branch
