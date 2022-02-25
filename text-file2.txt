@@ -2,3 +2,4 @@ Hello Lumiq.ai
 Hello Lumiq was started in year 2013
 Lumiq is a data-driven company
 Lumiq is partnered with AWS
+Lumiq provides support to many bank
