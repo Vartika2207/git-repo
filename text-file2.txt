@@ -6,3 +6,4 @@ Limuq is data-driven company
 Lumiq is a data-driven company
 Lumiq is partnered with AWS
 >>>>>>> new-branch
+I have joined
